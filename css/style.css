@@ -18,3 +18,16 @@ body{
     font-weight: bold;
     font-size: 24px;
 }
+
+main img {
+    width:100%;
+}
+
+footer {
+    background-color:#000;
+}
+
+.footer {
+    color:white;
+    text-align: center;
+}
